@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/4d8e9d2fd65b49c58dd74e37dc33b32b/artifacts
+end_time: 1752676466650
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d8e9d2fd65b49c58dd74e37dc33b32b
+run_name: gentle-stork-805
+run_uuid: 4d8e9d2fd65b49c58dd74e37dc33b32b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752676449335
+status: 3
+tags: []
+user_id: gunjan

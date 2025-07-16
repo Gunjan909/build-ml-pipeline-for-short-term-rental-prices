@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/12c9a26e3c4e4b9bb4187ad16c94087d/artifacts
+end_time: 1752687463970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 12c9a26e3c4e4b9bb4187ad16c94087d
+run_name: lyrical-goose-643
+run_uuid: 12c9a26e3c4e4b9bb4187ad16c94087d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752687378729
+status: 4
+tags: []
+user_id: gunjan

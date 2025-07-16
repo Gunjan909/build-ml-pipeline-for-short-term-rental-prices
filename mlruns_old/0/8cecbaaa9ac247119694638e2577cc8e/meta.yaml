@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/8cecbaaa9ac247119694638e2577cc8e/artifacts
+end_time: 1752587989076
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8cecbaaa9ac247119694638e2577cc8e
+run_name: bemused-lark-16
+run_uuid: 8cecbaaa9ac247119694638e2577cc8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752587836415
+status: 4
+tags: []
+user_id: gunjan

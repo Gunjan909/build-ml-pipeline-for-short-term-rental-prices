@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/39b63b53bab74d538155be4cb02f0458/artifacts
+end_time: 1752676386625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 39b63b53bab74d538155be4cb02f0458
+run_name: clumsy-cub-390
+run_uuid: 39b63b53bab74d538155be4cb02f0458
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752676365172
+status: 3
+tags: []
+user_id: gunjan

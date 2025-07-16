@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/330916fba685473d9ce18d56534e0c6a/artifacts
+end_time: 1752676515647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 330916fba685473d9ce18d56534e0c6a
+run_name: bold-squirrel-30
+run_uuid: 330916fba685473d9ce18d56534e0c6a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752676494410
+status: 3
+tags: []
+user_id: gunjan

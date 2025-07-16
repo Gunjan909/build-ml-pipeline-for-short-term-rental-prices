@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/919b214520fb41a1b8b9f7484201fb6b/artifacts
+end_time: 1752517951956
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 919b214520fb41a1b8b9f7484201fb6b
+run_name: burly-squirrel-833
+run_uuid: 919b214520fb41a1b8b9f7484201fb6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752517941928
+status: 4
+tags: []
+user_id: gunjan

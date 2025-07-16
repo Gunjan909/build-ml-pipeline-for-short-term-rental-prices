@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/350d4bb5d7594949b30620f981b966ec/artifacts
+end_time: 1752687450732
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 350d4bb5d7594949b30620f981b966ec
+run_name: silent-flea-558
+run_uuid: 350d4bb5d7594949b30620f981b966ec
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752687426344
+status: 3
+tags: []
+user_id: gunjan

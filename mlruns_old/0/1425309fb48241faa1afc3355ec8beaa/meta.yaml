@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/1425309fb48241faa1afc3355ec8beaa/artifacts
+end_time: 1752634932733
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1425309fb48241faa1afc3355ec8beaa
+run_name: brawny-koi-414
+run_uuid: 1425309fb48241faa1afc3355ec8beaa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752634868059
+status: 3
+tags: []
+user_id: gunjan

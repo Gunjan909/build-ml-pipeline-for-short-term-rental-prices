@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/a7a1d3ed4ec047a2ac9075b6c25f0504/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a7a1d3ed4ec047a2ac9075b6c25f0504
+run_name: masked-yak-199
+run_uuid: a7a1d3ed4ec047a2ac9075b6c25f0504
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752517958961
+status: 1
+tags: []
+user_id: gunjan

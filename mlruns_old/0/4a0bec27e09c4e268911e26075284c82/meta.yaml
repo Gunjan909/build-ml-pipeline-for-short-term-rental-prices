@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/4a0bec27e09c4e268911e26075284c82/artifacts
+end_time: 1752676635417
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a0bec27e09c4e268911e26075284c82
+run_name: awesome-finch-449
+run_uuid: 4a0bec27e09c4e268911e26075284c82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752676611984
+status: 3
+tags: []
+user_id: gunjan

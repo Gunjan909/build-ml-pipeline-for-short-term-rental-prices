@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/a55f7a4be15a418f8d6be111d59a4f11/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a55f7a4be15a418f8d6be111d59a4f11
+run_name: orderly-jay-910
+run_uuid: a55f7a4be15a418f8d6be111d59a4f11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752599827724
+status: 1
+tags: []
+user_id: gunjan

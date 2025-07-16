@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/48a5ae30419046eca905ea3a04019b9c/artifacts
+end_time: 1752686589476
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 48a5ae30419046eca905ea3a04019b9c
+run_name: delicate-swan-890
+run_uuid: 48a5ae30419046eca905ea3a04019b9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752686579005
+status: 4
+tags: []
+user_id: gunjan

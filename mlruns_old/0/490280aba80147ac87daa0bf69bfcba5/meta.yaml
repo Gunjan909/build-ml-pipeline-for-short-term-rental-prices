@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/490280aba80147ac87daa0bf69bfcba5/artifacts
+end_time: 1752676494340
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 490280aba80147ac87daa0bf69bfcba5
+run_name: resilient-gnu-500
+run_uuid: 490280aba80147ac87daa0bf69bfcba5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752676466718
+status: 3
+tags: []
+user_id: gunjan

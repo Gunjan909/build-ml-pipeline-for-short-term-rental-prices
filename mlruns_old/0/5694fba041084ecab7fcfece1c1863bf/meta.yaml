@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/5694fba041084ecab7fcfece1c1863bf/artifacts
+end_time: 1752686578997
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5694fba041084ecab7fcfece1c1863bf
+run_name: likeable-boar-44
+run_uuid: 5694fba041084ecab7fcfece1c1863bf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752686563661
+status: 3
+tags: []
+user_id: gunjan

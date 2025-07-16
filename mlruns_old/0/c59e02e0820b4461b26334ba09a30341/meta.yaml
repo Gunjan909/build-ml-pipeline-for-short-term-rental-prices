@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/c59e02e0820b4461b26334ba09a30341/artifacts
+end_time: 1752599274843
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c59e02e0820b4461b26334ba09a30341
+run_name: wise-fawn-180
+run_uuid: c59e02e0820b4461b26334ba09a30341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752599234974
+status: 4
+tags: []
+user_id: gunjan

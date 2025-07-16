@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/e6b42ce9b9364e5db7daf242f175f626/artifacts
+end_time: 1752600096374
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e6b42ce9b9364e5db7daf242f175f626
+run_name: puzzled-skunk-420
+run_uuid: e6b42ce9b9364e5db7daf242f175f626
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752600087390
+status: 3
+tags: []
+user_id: gunjan

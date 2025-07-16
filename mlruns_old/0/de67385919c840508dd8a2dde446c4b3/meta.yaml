@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/de67385919c840508dd8a2dde446c4b3/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: de67385919c840508dd8a2dde446c4b3
+run_name: funny-swan-979
+run_uuid: de67385919c840508dd8a2dde446c4b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752513959401
+status: 1
+tags: []
+user_id: gunjan

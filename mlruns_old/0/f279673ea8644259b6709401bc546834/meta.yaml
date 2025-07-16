@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/f279673ea8644259b6709401bc546834/artifacts
+end_time: 1752676552345
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f279673ea8644259b6709401bc546834
+run_name: clean-koi-58
+run_uuid: f279673ea8644259b6709401bc546834
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752676537431
+status: 3
+tags: []
+user_id: gunjan

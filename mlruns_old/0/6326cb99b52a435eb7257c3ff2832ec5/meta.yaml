@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/6326cb99b52a435eb7257c3ff2832ec5/artifacts
+end_time: 1752511954183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6326cb99b52a435eb7257c3ff2832ec5
+run_name: painted-sow-394
+run_uuid: 6326cb99b52a435eb7257c3ff2832ec5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752511819217
+status: 3
+tags: []
+user_id: gunjan

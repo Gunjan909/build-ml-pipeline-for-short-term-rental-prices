@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/355cfe24098e486eb5089346a5323ede/artifacts
+end_time: 1752634932622
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 355cfe24098e486eb5089346a5323ede
+run_name: respected-turtle-11
+run_uuid: 355cfe24098e486eb5089346a5323ede
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752634871314
+status: 3
+tags: []
+user_id: gunjan

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/76e3a1768d3a466aa831763c44216f9d/artifacts
+end_time: 1752615897232
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76e3a1768d3a466aa831763c44216f9d
+run_name: sneaky-duck-347
+run_uuid: 76e3a1768d3a466aa831763c44216f9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752615806809
+status: 3
+tags: []
+user_id: gunjan

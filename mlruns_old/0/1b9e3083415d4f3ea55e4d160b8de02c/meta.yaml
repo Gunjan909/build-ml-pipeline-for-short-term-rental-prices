@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/1b9e3083415d4f3ea55e4d160b8de02c/artifacts
+end_time: 1752676408186
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b9e3083415d4f3ea55e4d160b8de02c
+run_name: placid-fly-129
+run_uuid: 1b9e3083415d4f3ea55e4d160b8de02c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752676386695
+status: 3
+tags: []
+user_id: gunjan

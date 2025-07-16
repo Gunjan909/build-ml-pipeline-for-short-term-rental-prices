@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/e56ca4e9397842809569e2aaaafde54d/artifacts
+end_time: 1752599981845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e56ca4e9397842809569e2aaaafde54d
+run_name: bittersweet-calf-55
+run_uuid: e56ca4e9397842809569e2aaaafde54d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752599934267
+status: 4
+tags: []
+user_id: gunjan

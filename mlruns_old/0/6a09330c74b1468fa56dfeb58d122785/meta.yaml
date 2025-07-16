@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/6a09330c74b1468fa56dfeb58d122785/artifacts
+end_time: 1752599838727
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6a09330c74b1468fa56dfeb58d122785
+run_name: persistent-shrew-266
+run_uuid: 6a09330c74b1468fa56dfeb58d122785
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752599824457
+status: 4
+tags: []
+user_id: gunjan

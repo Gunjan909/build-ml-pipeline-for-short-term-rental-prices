@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/76f714bdf57740f79e0ab913091bed9c/artifacts
+end_time: 1752687394845
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 76f714bdf57740f79e0ab913091bed9c
+run_name: puzzled-midge-564
+run_uuid: 76f714bdf57740f79e0ab913091bed9c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752687384882
+status: 3
+tags: []
+user_id: gunjan

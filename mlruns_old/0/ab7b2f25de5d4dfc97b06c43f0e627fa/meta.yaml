@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/ab7b2f25de5d4dfc97b06c43f0e627fa/artifacts
+end_time: 1752676569298
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ab7b2f25de5d4dfc97b06c43f0e627fa
+run_name: monumental-gull-561
+run_uuid: ab7b2f25de5d4dfc97b06c43f0e627fa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752676552446
+status: 3
+tags: []
+user_id: gunjan

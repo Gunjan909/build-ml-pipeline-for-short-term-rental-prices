@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/96343b943a9043bd9f1d47df6f2ae49f/artifacts
+end_time: 1752615897020
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 96343b943a9043bd9f1d47df6f2ae49f
+run_name: charming-fox-429
+run_uuid: 96343b943a9043bd9f1d47df6f2ae49f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752615813122
+status: 3
+tags: []
+user_id: gunjan

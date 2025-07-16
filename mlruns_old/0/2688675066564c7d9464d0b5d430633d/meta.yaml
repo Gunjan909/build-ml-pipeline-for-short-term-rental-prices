@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/2688675066564c7d9464d0b5d430633d/artifacts
+end_time: 1752636018631
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2688675066564c7d9464d0b5d430633d
+run_name: spiffy-shoat-24
+run_uuid: 2688675066564c7d9464d0b5d430633d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752635995585
+status: 3
+tags: []
+user_id: gunjan

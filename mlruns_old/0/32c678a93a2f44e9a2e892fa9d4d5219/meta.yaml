@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/32c678a93a2f44e9a2e892fa9d4d5219/artifacts
+end_time: 1752687463799
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 32c678a93a2f44e9a2e892fa9d4d5219
+run_name: luminous-squid-616
+run_uuid: 32c678a93a2f44e9a2e892fa9d4d5219
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752687450742
+status: 4
+tags: []
+user_id: gunjan

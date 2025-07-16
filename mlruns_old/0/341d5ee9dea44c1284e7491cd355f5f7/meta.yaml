@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/341d5ee9dea44c1284e7491cd355f5f7/artifacts
+end_time: 1752676651561
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 341d5ee9dea44c1284e7491cd355f5f7
+run_name: shivering-jay-160
+run_uuid: 341d5ee9dea44c1284e7491cd355f5f7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752676635488
+status: 3
+tags: []
+user_id: gunjan

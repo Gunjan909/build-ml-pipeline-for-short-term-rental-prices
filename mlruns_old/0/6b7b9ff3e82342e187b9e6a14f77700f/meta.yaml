@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/6b7b9ff3e82342e187b9e6a14f77700f/artifacts
+end_time: 1752679969470
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b7b9ff3e82342e187b9e6a14f77700f
+run_name: chill-rook-571
+run_uuid: 6b7b9ff3e82342e187b9e6a14f77700f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752679955178
+status: 3
+tags: []
+user_id: gunjan

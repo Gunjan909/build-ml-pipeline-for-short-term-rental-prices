@@ -1,0 +1,15 @@
+artifact_uri: file:///home/gunjan/workspace/build-ml-pipeline-for-short-term-rental-prices/mlruns/0/c029e49929cc423ba4a9aa49f25a8635/artifacts
+end_time: 1752599981674
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c029e49929cc423ba4a9aa49f25a8635
+run_name: colorful-shark-475
+run_uuid: c029e49929cc423ba4a9aa49f25a8635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752599937520
+status: 4
+tags: []
+user_id: gunjan
